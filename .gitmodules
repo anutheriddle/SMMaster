@@ -1,0 +1,4 @@
+[submodule "SMSubModule"]
+	path = SMSubModule
+	url = https://github.com/anutheriddle/SMSubModule.git
+	branch = master
